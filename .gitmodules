@@ -1,3 +1,6 @@
 [submodule "pack/color_themes/opt/onedark.vim"]
 	path = pack/color_themes/opt/onedark.vim
 	url = https://github.com/joshdick/onedark.vim
+[submodule "pack/color_themes/opt/gruvbox.vim"]
+	path = pack/color_themes/opt/gruvbox.vim
+	url = https://github.com/morhetz/gruvbox
