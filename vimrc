@@ -39,7 +39,7 @@ set laststatus=2
 packadd! onedark.vim
 packadd! gruvbox.vim
 let g:gruvbox_contrast_dark = 'hard'
-colorscheme gruvbox
+colorscheme onedark
 set background=dark
 
 " Enable use of transparent background in vim
@@ -47,7 +47,7 @@ set background=dark
 "hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE
 
 " Change the default characters shown for tabs and EOLs
-set listchars=tab:▸\ ,eol:¬ 
+"set listchars=tab:^\,eol:¬ 
 
 " *****************************************************************************
 " **** GENERAL PREFERENCES/TOOLS  
